@@ -23,6 +23,14 @@ h1 {
    font-weight: 400;
 }
 
+h3 {
+   font-size: 14px;
+   margin-bottom: 8px;
+   margin-top: 0;
+   color: #495d70;
+   font-weight: 300;
+}
+
 a {
    text-decoration: none;
 }
